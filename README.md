@@ -1,4 +1,6 @@
 # Audio Player
+### Djefferson Saintilus
+
 ![image](./audioplayer.png)
 
 The Audio Player is an interactive Python application that allows users to play audio files while enjoying captivating visual effects. It provides a seamless integration of audio playback and dynamic animations to enhance the listening experience.
